@@ -1,0 +1,23 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "description": "heroku",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "sun",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimduga2018/sunny.sampletest.git"
+  },
+  "keywords": [
+    "alexa"
+  ],
+  "bugs": {
+    "url": "https://github.com/jimduga2018/sunny.sampletest/issues"
+  },
+  "homepage": "https://github.com/jimduga2018/sunny.sampletest#readme"
+}
