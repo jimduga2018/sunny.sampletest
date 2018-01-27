@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/jimduga2018/sunny.sampletest/issues"
   },
-  "homepage": "https://github.com/jimduga2018/sunny.sampletest#readme"
+  "homepage": "https://github.com/jimduga2018/sunny.sampletest#readme",
+  "dependencies": {
+    "alexa-app-server": "^3.0.1"
+  },
+  "devDependencies": {}
 }
